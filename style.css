@@ -53,7 +53,6 @@ body, h1, h2, h3, p, ul {
 
   @media (min-width: 768px) {
     nav ul {
-      
       justify-content: center;
     }
     nav ul li {
@@ -76,6 +75,10 @@ body, h1, h2, h3, p, ul {
       justify-content: flex-start;
       padding-left: 2rem;
     }
+    nav ul li{
+        margin: 0 1rem;
+    }
+    
     main {
       max-width: 900px;
     }
