@@ -73,6 +73,8 @@ body, h1, h2, h3, p, ul {
     nav ul {
     flex-direction: row;
       justify-content: center;
+      align-items: center;
+      padding-left: 0;
 
     }
     nav ul li{
